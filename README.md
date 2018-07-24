@@ -1,2 +1,2 @@
 # Hello-World
-first test
+This project is a test of using Jenkins Blue Ocean
